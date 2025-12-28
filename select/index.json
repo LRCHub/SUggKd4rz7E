@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Last One Standing (From Venom: Let There Be Carnage) (feat. Polo G, Mozzy & Eminem)",
+  "base_artist": "Skylar Grey",
+  "createdAt": "2025-12-28T16:36:22.606222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Skylar Grey",
+      "has_synced": true,
+      "path": "select/01_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Skylar Grey",
+      "has_synced": true,
+      "path": "select/02_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage) (feat. Polo G, Mozzy",
+      "artist": "Skylar Grey",
+      "has_synced": true,
+      "path": "select/03_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_(feat._Polo_G,_Mozzy_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage) (feat. Polo G, Mozzy & Eminem)",
+      "artist": "EminemVEVO",
+      "has_synced": true,
+      "path": "select/04_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_(feat._Polo_G,_Mozzy_&_Emin_EminemVEVO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Skylar Grey, Polo G, Mozzy, Eminem",
+      "has_synced": true,
+      "path": "select/05_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Skylar_Grey,_Polo_G,_Mozzy,_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/06_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Skylar Grey",
+      "has_synced": true,
+      "path": "select/07_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Skylar Grey, Polo G, Mozzy, Eminem",
+      "has_synced": true,
+      "path": "select/08_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Skylar_Grey,_Polo_G,_Mozzy,_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Skylar Grey\u0000Polo G\u0000Mozzy\u0000Eminem",
+      "has_synced": true,
+      "path": "select/09_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Skylar_Grey\u0000Polo_G\u0000Mozzy\u0000Eminem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Eminem, Mozzy, Polo G, Skylar Grey",
+      "has_synced": true,
+      "path": "select/10_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Eminem,_Mozzy,_Polo_G,_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage) (feat. Polo G, Mozzy & Eminem)",
+      "artist": "Skylar Grey",
+      "has_synced": true,
+      "path": "select/11_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_(feat._Polo_G,_Mozzy_&_Emin_Skylar_Grey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Skylar Grey, Polo G, Mozzy & Eminem",
+      "has_synced": true,
+      "path": "select/12_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Skylar_Grey,_Polo_G,_Mozzy_&_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last One Standing (From Venom: Let There Be Carnage|Clean)",
+      "artist": "Skylar Grey&Polo G&Mozzy&Eminem",
+      "has_synced": true,
+      "path": "select/13_Last_One_Standing_(From_Venom__Let_There_Be_Carnage_Clean)_Skylar_Grey&Polo_G&Mozzy&Eminem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last One Standing (From Venom: Let There Be Carnage)",
+      "artist": "Skylar Grey, Polo G, Mozzy & Eminem",
+      "has_synced": false,
+      "path": "select/pl_01_Last_One_Standing_(From_Venom__Let_There_Be_Carnage)_Skylar_Grey,_Polo_G,_Mozzy_&_Eminem.txt"
+    }
+  ]
+}
