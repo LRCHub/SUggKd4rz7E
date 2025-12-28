@@ -1,0 +1,132 @@
+# Skylar Grey – Last One Standing (From Venom: Let There Be Carnage) (feat. Polo G, Mozzy & Eminem)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.48] Now you see me standin' in the lights
+[00:03.76] But you never saw my sacrifice
+[00:07.04] Or all the nights I had to struggle to survive
+[00:13.02] Had to lose it all to win the fight
+[00:15.95] I had to fall so many times (oh-oh-oh)
+[00:20.80] Now I'm the last one standin'
+[00:35.30] 
+[00:24.98] Uh, you weren't with me on the cold block nights
+[00:27.57] Now you front row for the spotlight
+[00:29.18] Now the diamonds in the Audemars bright
+[00:30.64] Jets overseas for a far flight
+[00:32.28] Young n- on bulls-, and I ball on 'em, Bill Cartwright
+[00:35.03] Knew I could shine through the darkness
+[00:36.26] I guess I always been a star type
+[00:52.76] 
+[00:38.46] That lion in me made my heart fight
+[00:39.81] Could've been a victim of an opp pipe
+[00:41.55] Took a million risks just to get to this
+[00:42.95] 'Cause we ain't the ones that the cops like
+[01:04.45] 
+[00:44.43] Been so many times God tested me
+[00:45.88] They only see the answers I got right
+[00:47.65] They commentin' all on the blogs
+[00:49.09] Tryna tell me how to live my life
+[01:05.59] 
+[00:50.92] And I waited so patiently
+[00:52.15] If you could take off, don't wait for me
+[00:53.78] No days off, grind faithfully
+[00:55.36] I keep thankin' God for savin' me
+[00:56.93] Front line, showcasin' our bravery
+[00:58.23] I know that top spot, it was made for me
+[00:59.98] It all paid off, so we felt the struggle so painfully
+[01:26.48] 
+[01:02.65] Now you see me standin' in the lights
+[01:05.56] But you never saw my sacrifice
+[01:08.98] Or all the nights I had to struggle to survive
+[01:14.82] Had to lose it all to win the fight
+[01:17.71] I had to fall so many times (oh-oh-oh)
+[01:22.72] Now I'm the last one standin'
+[01:37.22] 
+[01:28.54] Yeah, you know, the code we gotta live by
+[01:31.26] Never mind all the ice cubes on this wrist, wearin' the big body
+[01:34.33] Live by the g-, get bodied, or it's hella time in that cell
+[01:37.12] It was hella times where I failed
+[01:38.53] When I had to double back from them Ls
+[01:57.53] 
+[01:40.22] Bet he don't double back when he tell
+[01:41.78] 'Cause it ain't no comin' back when you tell
+[01:43.32] Why would you leave me here by myself? A n- be lonely
+[01:46.23] Ayy, I blew the whole bag on they flights, ain't leavin' the homies
+[01:49.23] If he really gang, then get him a chain, no cubic zirconies
+[02:18.73] 
+[01:52.19] Why's arm in a stogie, stood firm, never folded?
+[01:55.05] Furthest thing from a rodent, you put the jacket on and you bogus
+[01:57.99] Yeah, big dawg and they know it
+[01:59.55] I had to spin off to stay focused
+[02:01.30] Longev' on the motion
+[02:02.58] We don't abandon ship when it's hopeless
+[02:04.09] Sound of the microphone, and they know
+[02:23.09] 
+[02:04.58] I make it look easy
+[02:07.80] Like I made it overnight
+[02:10.44] I make it look easy
+[02:14.18] But you don't see the dark side
+[02:16.86] And all of the monsters I had to fight (fight)
+[02:21.67] And all of the nightmares (nightmares)
+[02:25.32] Made me stronger than life (yeah)
+[02:41.82] 
+[02:30.45] Y'all say I've changed
+[02:31.92] Really though? Tell me how so?
+[02:33.48] I got-got all this bread (yeah)
+[02:35.11] I'm still sourdough (sour, tho')
+[02:36.55] I don't know, square peg, round hole
+[02:38.68] Like a block of cheese in a paper towel roll
+[02:40.23] Rocky Balboa, never been no towel thrower
+[03:00.73] 
+[02:42.60] Even when I got kicked to the curb (yeah)
+[02:44.25] Life knocked my d- in the dirt
+[02:45.47] I got back up, flipped it the bird
+[02:46.62] 'Til I earned the attention I yearned
+[02:47.99] Not to mention, I learned
+[02:48.57] How to turn resentment and hurt to an unquenchable thirst
+[02:50.79] In the simplest terms, it's revenge of the nerd
+[02:52.52] In every sense of the word
+[03:05.52] 
+[02:53.90] But all you see is the fame and the millions
+[02:55.73] You don't see the strength, the resilience (nah)
+[02:57.30] How I rack my brain, but it feels as if
+[02:58.96] I'm tryin' to explain it to children (yeah)
+[03:00.32] So a lot of this pain isn't healin'
+[03:01.74] No escapin' it, this anger is spillin'
+[03:03.45] Almost like recreatin' the feelin'
+[03:04.70] Of 911 when the second plane hit the buildin'
+[03:27.20] 
+[03:06.61] So let 'em paint me the villain
+[03:08.25] Some of this just may be a symptom
+[03:09.71] Of havin' way too much income
+[03:11.25] But when you struggled every day just to get some
+[03:12.93] Now all of this hate is a syndrome
+[03:14.47] When they can't relate and that stems from
+[03:15.92] Money lookin' like it grows on trees
+[03:17.54] Yeah, they're green, but those aren't leaves
+[03:39.54] 
+[03:19.42] Sufficed to say, with every sacrifice I made
+[03:21.94] It's like I gave up my life to fame
+[03:23.42] All the nights that I lied awake
+[03:24.94] Nights I stayed up to write and prayed
+[03:26.59] Had to claw, scratch, and fight my way
+[03:28.00] Just follow me and I'll light the way
+[03:29.59] Look to the hook if your sky look grey (sky look grey)
+[03:56.59] 
+[03:31.68] And rappers, how can we be
+[03:32.96] On the same level now when I gotta look down and see
+[03:34.85] These clowns that are on the ground?
+[03:36.09] B-, I got clouds beneath me
+[03:37.65] Ever since I put out the EP to the height of 2003-me
+[03:40.61] You ain't see the struggle to make it out the D
+[03:41.90] Because I made it somehow look easy
+[03:59.40] 
+[03:43.55] Now you see me standin' in the lights
+[03:46.72] But you never saw my sacrifice
+[03:50.02] Or all the nights I had to struggle to survive
+[03:55.94] Had to lose it all to win the fight
+[03:58.88] I had to fall so many times (oh-oh-oh)
+[04:03.74] Now I'm the last one standin' (oh-oh-oh)
+[04:10.08] Now I'm the last one standin'
+```
